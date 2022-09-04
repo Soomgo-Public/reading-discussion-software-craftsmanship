@@ -39,4 +39,88 @@
 
 ## 참여자 :sparkles:
 
-TBD
+
+<table>
+    <tr>
+        <td align="center">
+            <a href="https://github.com/floydkim">
+                <img src="https://avatars.githubusercontent.com/u/22050211?v=4" width="100;" alt="floyd"/>
+                <br />
+                <sub>👑　<b>Floyd</b></sub>
+            </a>
+        </td>
+        <td align="center">
+            <a href="https://github.com/zeallat">
+                <img src="https://avatars.githubusercontent.com/u/7078066?v=4" width="100;" alt="zeallat"/>
+                <br />
+                <sub><b>Jimmy</b></sub>
+            </a>
+        </td>
+        <td align="center">
+            <a href="https://github.com/dev-hikun">
+                <img src="https://avatars0.githubusercontent.com/u/76590935?v=4" width="100;" alt="dev-hikun"/>
+                <br />
+                <sub><b>Harry</b></sub>
+            </a>
+        </td>
+        <td align="center">
+            <a href="https://github.com/JaeEeLee">
+                <img src="https://avatars2.githubusercontent.com/u/38426064?v=4" width="100;" alt="JaeEeLee"/>
+                <br />
+                <sub><b>Jessie</b></sub>
+            </a>
+        </td>
+        <td align="center">
+            <a href="https://github.com/ray-soomgo">
+                <img src="https://avatars.githubusercontent.com/u/104608754?v=4" width="100;" alt="Ray"/>
+                <br />
+                <sub><b>Ray</b></sub>
+            </a>
+        </td>
+        <td align="center">
+            <a href="https://github.com/yhl0519">
+                <img src="https://avatars2.githubusercontent.com/u/62636978?v=4" width="100;" alt="yhl0519"/>
+                <br />
+                <sub><b>Stella</b></sub>
+            </a>
+        </td>
+        </tr>
+        <tr>
+        <td align="center">
+            <a href="https://github.com/utae">
+                <img src="https://avatars.githubusercontent.com/u/16933515?v=4" width="100;" alt="utae"/>
+                <br />
+                <sub><b>Bentley</b></sub>
+            </a>
+        </td>
+        <td align="center">
+            <a href="https://github.com/hyerichung">
+                <img src="https://avatars.githubusercontent.com/u/64633218?v=4" width="100;" alt="hyerichung"/>
+                <br />
+                <sub><b>Hayley</b></sub>
+            </a>
+        </td>
+        <td align="center">
+            <a href="https://github.com/moonjunghwan">
+                <img src="https://avatars2.githubusercontent.com/u/5405499?v=4" width="100;" alt="moonjunghwan"/>
+                <br />
+                <sub><b>Linus</b></sub>
+            </a>
+        </td>
+        <td align="center">
+            <a href="https://github.com/JinleeJeong">
+                <img src="https://avatars.githubusercontent.com/u/45163013?v=4" width="100;" alt="JinleeJeong"/>
+                <br />
+                <sub><b>Daniel</b></sub>
+            </a>
+        </td>
+        <td align="center">
+             <a href="https://github.com/Terry-Jang">
+                <img src="https://avatars.githubusercontent.com/u/105403050?v=4" width="100;" alt="Terry"/>
+                <br />
+                <sub><b>Terry</b></sub>
+            </a>
+        </td>
+    </tr>
+</table>
+
