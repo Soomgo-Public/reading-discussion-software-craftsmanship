@@ -27,7 +27,7 @@
 | 1   | 8월 23일 (화)  | ~44p ('애자일 행오버' 전까지)               | Floyd, Jimmy, Harry, Jessie, Ray, Stella, Linus                                 |
 | 2   | 8월 30일 (화)  | ~59p ('소프트웨어 장인정신의 토론 이력' 전까지) | Floyd, Jimmy, Harry, Ray, Stella, Linus, Deniel, Bentley, Hayley, Terry |
 | 3   | 9월 6일 (화)   | ~86p ('끊임없는 훈련' 전까지)               |                                                                                 |
-| 4   | 9월 13일 (화)  | ~116p ('대안 제시' 전까지)                 |                                                                                 |
+| 4   | 9월 13일 (화)  | ~116p ('대안 제시' 전까지)                 | Floyd, Harry, Stella, Linus, Deniel, Hayley, Terry                              |
 | 5   | 9월 20일 (화)  | ~145p (챕터 7 '기술적 실행 관례' 전까지)      |                                                                                 |
 | 6   | 9월 27일 (화)  | ~176p (파트 2 '완전한 전환' 전까지)          |                                                                                 |
 | 7   | 10월 4일 (화)  | ~206p ('바람직한 면접 방법' 전까지)          |                                                                                 |
