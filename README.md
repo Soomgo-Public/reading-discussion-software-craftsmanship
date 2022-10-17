@@ -29,9 +29,9 @@
 | 3   | 9월 6일 (화)   | ~86p ('끊임없는 훈련' 전까지)               | Floyd, Jimmy, Harry, Ray, Stella, Linus, Deniel, Bentley, Hayley, Terry |
 | 4   | 9월 13일 (화)  | ~116p ('대안 제시' 전까지)                 | Floyd, Harry, Stella, Linus, Deniel, Hayley, Terry                      |
 | 5   | 9월 20일 (화)  | ~145p (챕터 7 '기술적 실행 관례' 전까지)      | Floyd, Jimmy, Jessie, Ray, Stella, Linus, Deniel, Bentley, Hayley, Terry |
-| 6   | 9월 27일 (화)  | ~176p (파트 2 '완전한 전환' 전까지)          |                                                                         |
-| 7   | 10월 4일 (화)  | ~206p ('바람직한 면접 방법' 전까지)          |                                                                         |
-| 8   | 10월 11일 (화) | ~236p ('낮은 수준의 동기가 만드는 제약' 전까지) |                                                                         |
+| 6   | 9월 27일 (화)  | ~176p (파트 2 '완전한 전환' 전까지)          | Floyd, Jimmy, Ray, Stella, Linus, Deniel, Bentley, Hayley, Terry                                                                        |
+| 7   | 10월 4일 (화)  | ~206p ('바람직한 면접 방법' 전까지)          | Floyd, Jimmy, Ray, Stella, Linus, Bentley, Hayley                                                                        |
+| 8   | 10월 11일 (화) | ~236p ('낮은 수준의 동기가 만드는 제약' 전까지) | Floyd, Jimmy, Jessie, Ray, Stella, Linus, Deniel, Bentley, Terry                                                                      |
 | 9   | 10월 18일 (화) | ~266p ('기술적 변화를 시작하는 방법' 전까지)   |                                                                         |
 | 10  | 10월 25일 (화) | ~295p ('비즈니스 돕기' 전까지)              |                                                                         |
 | 11  | 11월 1일 (화)  | ~끝까지                                  |                                                                         |
